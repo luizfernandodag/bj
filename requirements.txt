@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic>=2
+sqlalchemy>=2
+psycopg2-binary
+python-dotenv
+redis
+celery[redis]
+httpx
+loguru
+sqlalchemy
+alembic
+psycopg2-binary
